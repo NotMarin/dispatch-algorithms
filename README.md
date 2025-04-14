@@ -21,7 +21,7 @@ Sigue estos pasos para ejecutar el proyecto localmente:
 ### 1️⃣ Clonar el repositorio
 
 ```bash
- git clone https://github.com/NotMarin/dispacth-algorithms
+ git clone https://github.com/NotMarin/dispatch-algorithms
  cd dispacth-algorithms
 ```
 
